@@ -1,0 +1,86 @@
+
+/*Header Start*/
+
+.header-background{
+    background-color: #FFFBF0;
+}
+/*Navbar Start*/
+.navbar_style{
+    padding-top: 35px;
+}
+.navbar_menu{
+    color: #3C3C3C;
+    font-size: 18px;
+    font-weight: bold;
+    
+}
+.navbar_menu_2{
+    padding-right: 30px;
+}
+.banner_image{
+    padding-bottom: 150px;
+}
+
+.Logo_size{
+    height: 38.27px;
+    width: 291.11px;
+}
+.text_colour_one{
+    color: #FABE4C;
+}
+.text_colour_two{
+    color: #363958;
+}
+h1{
+    font-size: 75px;
+    font-family: 'Bebas Neue', cursive;
+}
+h2{
+    font-size: 60px;
+    font-family: 'Bebas Neue', cursive;
+    color: #363958;
+}
+h5{
+    font-size: 35px;
+    font-family: 'Bebas Neue', cursive;
+    color: #363958;
+}
+
+.button{
+    text-decoration: none;
+    background-color: #A4BC46;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 17px;
+    padding-bottom: 17px;
+    color: white;
+    border-radius: 9px;
+    font-size: 16px;
+    text-align: center;
+}
+p{
+    color: #3E3E3E;
+    margin-bottom: 40px;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+.card_image{
+    height: 450px;
+    padding:50px;
+    background-color: #F1F1F1;
+    border-radius: 20px;
+}
+.card_design {
+    border-radius: 20px;
+    padding: 20px;  
+}
+.dolar{
+    font-size: 50px;
+    font-family: 'Bebas Neue', cursive;
+    color: #FABE4C;
+}
+.sevice_info_image{
+    width: 90px;
+    margin: 25px;
+}
